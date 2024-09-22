@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">JPMorganTest</string>
+    <string name="til_congratulations">Congratulations</string>
+    <string name="desc_congratulations">The change was successfully</string>
+    <string name="til_close">Close</string>
+    <string name="desc_back">onclick Back</string>
+    <string name="desc_location">Your are in:</string>
+    <string name="til_try_again">Try again</string>
+    <string name="til_error">Error</string>
+    <string name="desc_error">Something happened with the service</string>
+    <string name="desc_dont_found">Don\'t found any result for your city</string>
+    <string name="til_sorry">Sorry</string>
+    <string name="desc_image_warning">Image warning</string>
+    <string name="desc_current_location">My current Location</string>
+    <string name="format_celsius">Cº %1$s</string>
+    <string name="desc_type_img_weather">Icon %1$s</string>
+    <string name="desc_btn_save_weather">Button Save weather</string>
+    <string name="til_authorize_permission">Please authorize location permissions</string>
+    <string name="til_approve">Approve</string>
+    <string name="desc_search_city">Search by city</string>
+    <string name="desc_icon_location">icon location</string>
+    <string name="desc_humidity">Humidity: %1$s %%</string>
+    <string name="desc_pressure">Pressure: %1$s hPa</string>
+    <string name="desc_wind_speed">Wind Speed: %1$s m/s</string>
+    <string name="desc_sunrise">Sunrise: %1$s</string>
+    <string name="desc_sunset">Sunset: %1$s</string>
+    <string name="desc_temperature">%1$s°C</string>
+</resources>
